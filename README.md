@@ -1,4 +1,4 @@
-# AdaBoost_Boosting_ML_Algorithm_for_Enhanced_Classification
+# AdaBoost-Boosting_ML_Algorithm_for_Enhanced_Classification
 
 # Problem Statement:
 Implementing the AdaBoost Algorithm with Decision Stumps as Base Learners for Binary Classification on the Breast Cancer Wisconsin Dataset
